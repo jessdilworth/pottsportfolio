@@ -1,0 +1,31 @@
+.header-block {
+	height: 100vh;
+	background-color: #F8D05F;
+}
+
+#header {
+	font-family: 'Oswald', sans-serif;
+	padding: 10px;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+#nav li {
+	list-style: none;
+	line-height: 3em;
+}
+
+#nav a {
+	font-size: 30px;
+	color: #2F2F2F;
+}
+
+img {
+	width: 350px;
+}
+
+#intro {
+	font-family: 'Playfair display';
+}
